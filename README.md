@@ -12,7 +12,7 @@ press enter
 
 FINISHED
 
-*its just for adding single properties, no gateways to
+*its just for adding single properties, no gateways
 
 Its just for developers, i will not answer any question about it.
 If you can´t read the code you are not a developer ;)
