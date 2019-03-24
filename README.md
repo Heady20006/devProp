@@ -19,3 +19,7 @@ If you can´t read the code you are not a developer ;)
 
 *maybe in the next version:
 Add gateways to add more than one property in a building
+
+
+Credits goes to https://github.com/lowheartrate/streetLabel
+He allowed me to take the codesnippet with the streetlabels
