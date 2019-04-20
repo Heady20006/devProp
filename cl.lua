@@ -144,50 +144,50 @@ Citizen.CreateThread(function()
 				Citizen.Wait(50)
 
 				if interieur == 1 then
-					inside = '{"x":265.307,"y":-1002.802,"z":-100.008}'
-					roommenu = '{"x":265.916,"y":-999.38,"z":-100.008}'
+					inside = '{"x":265.307,"y":-1002.802,"z":-101.008}'
+					roommenu = '{"x":265.916,"y":-999.38,"z":-101.008}'
 					price = math.random(price_low1,price_low1*1.25)
 					isSingle = 1
 					isRoom = 0
 					name = 'LowApartment'..i
 				elseif interieur == 2 then
 					inside = '{"x":-612.16,"y":59.06,"z":97.2}'
-					roommenu = '{"x":-622.173,"y":54.585,"z":96.599}'
+					roommenu = '{"x":-622.173,"y":54.585,"z":95.599}'
 					price = math.random(price_med1,price_med1*1.35)
 					isSingle = 1
 					isRoom = 0
 					name = 'MedApartment'..i
 				elseif interieur == 3 then
-					inside = '{"x":-1459.17,"y":-520.58,"z":55.929}'
-					roommenu = '{"x":-1457.026,"y":-530.219,"z":55.937}'
+					inside = '{"x":-1459.17,"y":-520.58,"z":54.929}'
+					roommenu = '{"x":-1457.026,"y":-530.219,"z":54.937}'
 					price = math.random(price_high1,price_high1*1.55)
 					isSingle = 1
 					isRoom = 0
 					name = 'HigApartment'..i
 				elseif interieur == 4 then
-					inside = '{"x":-680.124,"y":590.608,"z":144.392}'
-					roommenu = '{"x":-680.46,"y":588.6,"z":136.769}'
+					inside = '{"x":-680.124,"y":590.608,"z":143.392}'
+					roommenu = '{"x":-680.46,"y":588.6,"z":135.769}'
 					price = math.random(price_lux1,price_lux1*1.85)
 					isSingle = 1
 					isRoom = 0
 					name = 'LuxApartment'..i
 				elseif interieur == 5 then
-					inside = '{"x":118.037,"y":557.032,"z":183.301}'
-					roommenu = '{"x":118.748,"y":566.573,"z":175.697}'
+					inside = '{"x":118.037,"y":557.032,"z":182.301}'
+					roommenu = '{"x":118.748,"y":566.573,"z":174.697}'
 					price = math.random(price_lux2,price_lux2*1.85)
 					isSingle = 1
 					isRoom = 0
 					name = 'LuxApartment'..i
 				elseif interieur == 6 then
-					inside = '{"x":-781.64,"y":319.48,"z":186.913}'
-					roommenu = '{"x":-795.735,"y":326.757,"z":186.313}'
+					inside = '{"x":-781.64,"y":319.48,"z":185.913}'
+					roommenu = '{"x":-795.735,"y":326.757,"z":185.313}'
 					price = math.random(price_lux3,price_lux3*1.85)
 					isSingle = 1
 					isRoom = 0
 					name = 'LuxApartment'..i
 					ipl = '["apa_v_mp_h_01_c"]'
 				elseif interieur == 7 then
-					inside = '{"x":151.45,"y":-1007.57,"z":-100.00}'
+					inside = '{"x":151.45,"y":-1007.57,"z":-101.00}'
 					roommenu = ''
 					price = price_motel
 					isSingle = 1
